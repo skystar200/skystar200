@@ -1,6 +1,7 @@
 
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Fubao%20World🐼&fontSize=50" />
+  
 ## Hello!
 안녕하세요! 
 판다를 사랑하고 배우는 것을 좋아하는 김별입니다.
