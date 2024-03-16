@@ -4,7 +4,7 @@
   
 ## Hello!
 안녕하세요! 
-판다를 사랑하고 배우는 것을 좋아하는 김별입니다.
+판다를 사랑하고 배우는 것을 좋아합니다.
 
 
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=Python&logoColor=white"/>
