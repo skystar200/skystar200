@@ -1,5 +1,5 @@
 
-<div align=center>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Fubao%20World🐼&fontSize=50" />
   
 ## Hello!
@@ -9,7 +9,8 @@
 ## Projects
 - 🎫 star-universe-circle / 팀프로젝트 (2024.01.29 ~ 2024.03.15)
   컨테이너기반 선예매 티켓팅 웹서비스 (AWS활용)
-
+  
+<div align=center>
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
