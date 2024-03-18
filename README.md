@@ -9,6 +9,10 @@
 ## Projects
 - 🎫 star-universe-circle / 팀프로젝트 (2024.01.29 ~ 2024.03.15)
   컨테이너기반 선예매 티켓팅 웹서비스 (AWS활용)
+
+- 👩‍🏫 Capstone_Gettoo / 팀프로젝트 (2023.04 ~ 2023.06)
+  학교동아리 플랫폼
+
   
 <div align=center>
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=Python&logoColor=white"/>
