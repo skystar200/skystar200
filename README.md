@@ -6,6 +6,9 @@
 안녕하세요! 
 판다를 사랑하고 배우는 것을 좋아합니다.
 
+## Projects
+- 🎫 star-universe-circle / 팀프로젝트 (2024.01.29 ~ 2024.03.15)
+  컨테이너기반 선예매 티켓팅 웹서비스 (AWS활용)
 
 <img src="https://img.shields.io/badge/Python-14354C?style=flat&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
